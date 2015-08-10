@@ -77,7 +77,7 @@ Bachelor’s Degree in Computer Science	Colorado State University, 2002-2006
 ## Publications
 
 “Smashing: Folding Space to Tile Through Time”  
-Nissa Osheim, Michelle Mills Strout, David Rostron, and Sanjay Rajopadhye
+Nissa Osheim, Michelle Mills Strout, Dave Rostron, and Sanjay Rajopadhye
 
 “Multi-level Tiling: m for the Price of One”  
 Daegon Kim, Lakshminarayanan Renganarayana, Dave Rostron, Sanjay Rajopadhye, and Michelle Mills Strout
