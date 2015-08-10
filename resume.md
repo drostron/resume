@@ -58,7 +58,7 @@ Generic N-Dim R-Tree Explorations at [Scala Symposium 2015](http://lampwww.epfl.
 ## Ongoing education
 
 ### Conference attendance
-Lambdaconf, Strange Loop, OSBridge, OSCON
+LambdaConf, Strange Loop, PNWScala, OSCON, OSBridge
 
 ### MOOCs
 Intro to AI — Sebastian Thrun and Peter Norvig, Machine Learning —  Andrew Ing, Intro to Data Science — Bill Howe, Scalable Machine Learning — Ameet Talwalkar

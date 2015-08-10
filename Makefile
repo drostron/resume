@@ -1,3 +1,5 @@
+all: html pdf-staging
+
 html:
 	pandoc -c style.css --standalone --from markdown --to html+simple_tables -o resume.html resume.md
 
