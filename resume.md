@@ -37,7 +37,7 @@ Assisted with teaching, assignments, and projects for senior level compiler cour
 > Hewlett-Packard    Fort Collins, CO
 > ---                ---
 
-Led cost reducing initiatives including automating freight carrier reconnaissance processes and localizing test resources saving thousands per year.
+Led cost reducing initiatives including automating freight carrier reconnaissance processes and localizing test resources.
 
 Authored test plans, built test automation, wrote technical documentation and implemented bug fixes for the HP-UX operating system.
 
