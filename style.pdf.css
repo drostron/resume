@@ -4,15 +4,24 @@
 }
 
 body {
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-size: 10pt;
-    text-align: justify;
-    margin: 0em;
-    padding: 0em;
+  font-family: "Avenir";
+  font-size: 10pt;
+  text-align: justify;
+  margin: 0em;
+  padding: 0em;
 }
 
 h1 {
   margin: 0em 0em 0.4em 0em;
+  font-weight: normal;
+}
+
+h2 {
+    font-weight: normal;
+}
+
+h3 {
+    font-weight: normal;
 }
 
 blockquote {
@@ -22,6 +31,7 @@ blockquote {
 
 table {
   width: 100%;
+  border-collapse: collapse;
 }
 
 td {
@@ -38,8 +48,8 @@ p {
 }
 
 a {
-    text-decoration: none;
-    color: #000;
+  text-decoration: none;
+  color: #000;
 }
 
 hr {
