@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+
+if [ -n "$(git status --porcelain)" ]; then
+  echo "index not clean, exiting"
+  exit
+fi
+
+git checkout gh-pages
+git checkout master resume.html style.css resume.pdf
+git commit -m "update content"
+git checkout master
