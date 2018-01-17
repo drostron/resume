@@ -74,8 +74,8 @@ Intro to AI with Sebastian Thrun and Peter Norvig, Machine Learning with Andrew 
 
 ## Education
 ---                                                  ---
-Graduate work in CS, Colorado State University       2007-2008
-Bachelor’s Degree in CS, Colorado State University   2002-2006
+Graduate work in CS, Colorado State University       2007 — 2008
+Bachelor’s Degree in CS, Colorado State University   2002 — 2006
 ---                                                  ---
 
 ## Publications
