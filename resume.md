@@ -6,7 +6,7 @@ Looking to apply imagination, tenacity, and disciplined technical aptitude towar
 > Engineer, SlamData   2015 — present
 > ---                  ---
 
-Developer on all aspects of SlamData's backend including Quasar's SQL² compiler and VFS, Couchbase and MongoDB connectors, authz layer, web services layer, and build automation.
+Developer on all aspects of SlamData's backend including the Quasar SQL² compiler, Couchbase and MongoDB connectors, authorization layer, web services, and build automation.
 
 > ---                 ---
 > Engineer, Janrain   2013 — 2015
